@@ -1,0 +1,25 @@
+﻿@using QLBanLinhKienDienTuMVC.Models;
+@model List<KhachHang>
+
+@{ var tk = Session["taikhoan"] as KhachHang;
+    if (Session["taikhoan"] == null)//chưa đăng nhập
+    {
+        <span style="float:right">
+            <a href="@Url.Action("GioHang","GioHang")" style="float:right">
+                <img class="rounded" src="~/images/cart.png" width="30px" height="30px" />
+            </a>(@ViewBag.TongSoLuong)
+        </span>
+    }
+    else if (tk.UserName != "Admin")//là khách hàng  đăng nhập
+    {
+        <span style="float:right">
+            <a href="@Url.Action("GioHang","GioHang")" style="float:right">
+                <img class="rounded" src="~/images/cart.png" width="30px" height="30px" />
+            </a>(@ViewBag.TongSoLuong)
+        </span>
+    }
+    else if (tk.UserName == "Admin")//là Admin đăng nhập sẽ khong hiện giỏ hàng
+    {
+
+    }
+}

@@ -1,0 +1,179 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <!-- style css -->
+    <link rel="stylesheet" href="~/css/style.css">
+    <!-- Responsive-->
+    <link rel="stylesheet" href="~/css/responsive.css">
+    <!-- fevicon -->
+    <link rel="icon" href="~/images/fevicon.png" type="~/image/gif" />
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="~/css/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" type="~/text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <!--sử dụng icon -->
+    <link href="~/Public/css/all.min.css" rel="stylesheet" />
+</head>
+<body class="main-layout inner_posituong computer_page">
+    <!-- loader  -->
+    @*<div class="loader_bg">
+            <div class="loader"><img src="~/images/loading.gif" alt="#" /></div>
+        </div>*@
+    <!-- end loader -->
+    <!-- header -->
+    <header>
+        <!-- header inner -->
+        <div class="header p-1">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-2 logo_section">
+                        <div class="full">
+                            <div class="center-desk">
+                                <div class="logo">
+                                    <a href="#"><img src="~/images/logo.png" alt="#" /></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    @Html.Action("TimKiemPartial", "TimKiem")
+                    @*<div class="col-md-3 form-inline text-center">
+
+        @*<input class="form-control mr-1" type="search" name="txtSearch" placeholder="Search" aria-label="Search" />
+
+        <a href="@Url.Action("TimKiemSanPham","TimKiem")"><button class="btn btn-outline-dark" type="submit">Search</button></a>
+                </div>*@
+                    <div class="col-md-7">
+                        <nav class="navigation navbar navbar-expand-md navbar-dark ">
+
+                            <div class="collapse navbar-collapse" id="navbarsExample04">
+
+                                <ul class="navbar-nav mr-auto form-inline">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" href="@Url.Action("TrangChu","Home")">Trang Chủ</a>
+                                    </li>
+                                    @Html.Action("NguoiDungPartail", "NguoiDung")
+
+                                    @{if (Session["taikhoan"] == null)
+                                        {
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="@Url.Action("DangKy","NguoiDung")">Đăng Ký</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="@Url.Action("DangNhap", "NguoiDung")">Login</a>
+                                            </li>
+                                        }
+                                        else
+                                        {
+                                            <li class="nav-item dropdown">
+                                                <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                    <i class="fa-solid fa-user"></i>
+                                                </a>
+                                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                    <a class=" dropdown-item" href="@Url.Action("ThongTinNguoiDung", "NguoiDung")">Thông Tin</a>
+                                                    <a class="dropdown-item" href="@Url.Action("DoiMatKhau", "NguoiDung")">Đổi Mật Khẩu</a>
+                                                    <a class="dropdown-item" href="@Url.Action("DangXuat", "NguoiDung")">Đăng Xuất</a>
+                                                </div>
+                                            </li>
+                                        }
+                                    }
+                                   
+                                    <li class="nav-item" style="float:left; position:relative; display:block;width:150px;color:white;">
+                                        @Html.Action("GioHangPartial", "GioHang")
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="laptop1">
+        <div class="container">
+            <div class="row ">
+                <div class="col col-md-3  card">
+                    @Html.Action("LoaiPartail","Loai")
+                </div>
+                <div class="col-md-9">
+                    <div>
+                        @RenderBody()
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--  footer -->
+    <footer>
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <img class="logo1" src="~/images/logo1.png" alt="#" />
+                        <ul class="social_icon">
+                            <li><a href="https://www.facebook.com/profile.php?id=100015057640311"><i class="fa-brands fa-facebook"" aria-hidden="true" style="color:black"></i></a></li>
+                            <li><a href="#"><i class="fa-brands fa-twitter" aria-hidden="true" style="color:black"></i></a></li>
+                            <li><a href="#"><i class="fa-brands fa-linkedin-square" aria-hidden="true" style="color:black"></i></a></li>
+                            <li><a href="#"><i class="fa-brands fa-instagram" aria-hidden="true" style="color:black"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Giới Thiệu</h3>
+                        <ul class="about_us">
+                            <li>Nhóm 12<br> Phạm Gia Bảo-2001190424<br>Nguyễn Tiến Đạt-2001190462</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Liên Hệ Với Chúng Tôi</h3>
+                        <ul class="conta">
+                            <li>
+                                Phạm Gia Bảo-2001190424 <br />Nguyễn Tiến Đạt-2001190462
+                                <br> Số Điện Thoại: 0974924692 <br>Email: paopaokk321@gmail.com<br> Lớp: 10DHTH4
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <form class="bottom_form">
+                            <h3>Newsletter</h3>
+                            <input class="enter" placeholder="Nhập vào email" type="text" name="Nhập vào email">
+                            <button class="sub_btn">Gửi</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p>© Nhóm 12</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- end footer -->
+    <!-- Javascript files-->
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/jquery-3.0.0.min.js"></script>
+    <!-- sidebar -->
+    <script src="~/js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="~/js/custom.js"></script>
+
+</body>
+</html>

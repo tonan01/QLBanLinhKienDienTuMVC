@@ -1,0 +1,10 @@
+﻿@using QLBanLinhKienDienTuMVC.Models
+@model List<SanPham>
+<div class="col-md-3 form-inline text-center">
+    @using (Html.BeginForm("TimKiemSanPham", "TimKiem"))
+    {
+        <input class="form-control mr-1" type="search" name="txtSearch" placeholder="Search" aria-label="Search" />
+        <button class="btn btn-outline-dark" type="submit">Search</button>
+      
+    }
+</div>

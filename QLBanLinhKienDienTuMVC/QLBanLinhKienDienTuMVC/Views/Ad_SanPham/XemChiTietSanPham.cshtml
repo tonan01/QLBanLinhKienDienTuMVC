@@ -1,0 +1,52 @@
+﻿@model QLBanLinhKienDienTuMVC.Models.SanPham
+
+@{
+    ViewBag.Title = "XemChiTietSanPham";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+<div class="row">
+    <div class="col-md-6">
+        <strong class="text-uppercase text-info text-center">Chi Tiết Sản Phẩm : @Model.MaSP</strong>
+    </div>
+    <div class="col-md-6" style="text-align:end">
+        <a href="@Url.Action("DanhSachSanPham", "Ad_SanPham")" class="btn btn-sm btn-success"><i class="fa-sharp fa-solid fa-arrow-left"></i> BACK</a>
+        <button type="submit" class="btn btn-sm btn-success"><i class="fa-solid fa-floppy-disk"></i> Lưu</button>
+    </div>
+</div>
+<div class="card border-dark">
+    <table class="border-dark mx-3 mb-3 mt-3">
+        <tr class="text-left">
+            <td rowspan="5" width="45%">
+                <img class="card-header" src="@Url.Content("~/images/" +Model.Anh)" width="100%" height="100%" alt="Hình ảnh" />
+            </td>
+            <td width="20%">Tên sản phẩm:</td>
+            <td width="35%" style="font-weight:bold;color:blue">@Model.TenSP</td>
+        </tr>
+        <tr class="text-left">
+            <td>Loại sản phẩm:</td>
+            <td style="color:blue">@Model.Loai.TenLoai</td>
+        </tr>
+        <tr class="text-left">
+            <td>Mô tả:</td>
+            <td>@Model.MoTa</td>
+        </tr>
+        <tr class="text-left">
+            <td>Gia bán:</td>
+            <td style="color:red;font-weight:bold">@string.Format("{0:0,0}", Model.GiaBan) VNĐ</td>
+        </tr>
+        <tr class="text-left">
+            <td>Số lượng còn:</td>
+            <td class="text-justify" style="color:red">@Model.SLTon</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="@Url.Action("CapNhatSanPham", "Ad_SanPham",new {@MaSP=Model.MaSP })" class="btn btn-info">
+                    <i class="fa-solid fa-pen-to-square"></i>
+                </a>
+                <a style="text-align:end" href="@Url.Action("XoaSanPham", "Ad_SanPham",new {@MaSP=Model.MaSP })" class="btn btn-danger">
+                    <i class="fa-solid fa-trash"></i>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>

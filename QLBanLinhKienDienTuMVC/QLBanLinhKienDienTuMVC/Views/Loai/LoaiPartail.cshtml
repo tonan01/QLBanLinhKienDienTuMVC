@@ -1,0 +1,47 @@
+﻿@using QLBanLinhKienDienTuMVC.Models;
+@model List<Loai>
+@{ var tk = Session["taikhoan"] as KhachHang;
+    if (Session["taikhoan"] != null && tk.UserName == "Admin")
+    {
+        <ul class="list-group list-group-flush text-left">
+            <li class="list-group-item" style="background-color:#4843a3;">
+                <a href="#" style="text-transform:uppercase;text-decoration:none;color:white;font-weight:bold">QUẢN TRỊ</a>
+            </li>
+            <li class="list-group-item dropdown">
+                <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    kHÁCH HÀNG
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class=" dropdown-item" href="@Url.Action("DanhSachKhachHang", "Ad_KhachHang")">Danh Sách Khách Hàng</a>
+                    <a class="dropdown-item" href="@Url.Action("ThemKhachHang", "Ad_KhachHang")">Quản Lý</a>
+                </div>
+            </li>
+
+            <li class="list-group-item">
+                <a href="#" style="text-transform:uppercase;text-decoration:none"></a>
+            </li>
+
+        </ul>
+    }
+    else
+    {
+        <ul class="list-group list-group-flush text-left">
+            <li class="list-group-item" style="background-color:#4843a3;">
+                <a href="#" style="text-transform:uppercase;text-decoration:none;color:white;font-weight:bold">LINH KIỆN</a>
+            </li>
+            @{
+                foreach (var item in Model)
+                {
+                    <li class="list-group-item">
+                        <a href="@Url.Action("SPTheoLoai","Loai",new {@MaLoai=item.MaLoai })" style="text-decoration:none;text-transform:uppercase">@item.TenLoai</a>
+                    </li>
+                }
+
+                <li class="list-group-item">
+                    <a href="#" style="text-transform:uppercase;text-decoration:none"></a>
+                </li>
+            }
+        </ul>
+    }
+}
+

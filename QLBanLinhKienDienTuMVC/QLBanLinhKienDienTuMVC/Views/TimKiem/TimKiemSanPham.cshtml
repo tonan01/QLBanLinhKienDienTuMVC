@@ -1,0 +1,33 @@
+﻿@using QLBanLinhKienDienTuMVC.Models;
+@model List<SanPham>
+@{
+    ViewBag.Title = "TimKiemSanPham";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+<h3 class="text-center">KẾT QUẢ TÌM KIẾM</h3>
+@ViewBag.SanPham;
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-3">
+            <img src="@Url.Content("~/images/"+item.Anh)" width="80%" height="80%" alt="hình ảnh" />
+            @*//nếu nhiều hơn 30 kí tự*@
+            @if (item.TenSP.Length > 30)
+            {
+                <p>
+                    <strong title="@item.TenSP">Tên SP: @item.TenSP.Substring(0, 30)...</strong><br />
+                    <a href="@Url.Action("XemChiTiet","SanPham",new {@MaSP=item.MaSP })">Xem Chi Tiết</a>
+                </p>
+            }
+            else//ít hơn 30 or = kí tự
+            {
+                <p>
+                    <strong title="@item.TenSP">Tên SP: @item.TenSP</strong><br />
+                    <a href="@Url.Action("XemChiTiet","SanPham",new {@MaSP=item.MaSP })">Xem Chi Tiết</a>
+                </p>
+                <div class="clear"></div>
+            }
+        </div>
+    }
+</div>
+

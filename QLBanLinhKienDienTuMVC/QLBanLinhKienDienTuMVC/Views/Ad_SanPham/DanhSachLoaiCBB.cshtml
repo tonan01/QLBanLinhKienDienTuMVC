@@ -1,0 +1,27 @@
+﻿
+@using QLBanLinhKienDienTuMVC.Models;
+@model List<Loai>
+<div class="form-group">
+    <label for="exampleFormControlSelect1">Loại</label>
+    <select name="MaLoai" class="form-control" id="exampleFormControlSelect1">
+        @{
+            foreach (var item in Model)
+            {
+                <option value="@item.MaLoai">@item.TenLoai</option>
+            }
+        }
+    </select>
+</div>
+@*<div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <label class="input-group-text" for="inputGroupSelect01">Chọn Loại</label>
+        </div>
+        <select class="custom-select" name="MaLoai" id="inputGroupSelect01">
+            @{
+                foreach (var item in Model)
+                {
+                    <option value="@item.MaLoai">@item.TenLoai</option>
+                }
+            }
+        </select>
+    </div>*@

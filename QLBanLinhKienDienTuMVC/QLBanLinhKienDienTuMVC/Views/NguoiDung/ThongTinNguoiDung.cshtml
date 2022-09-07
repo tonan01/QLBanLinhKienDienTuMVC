@@ -1,0 +1,40 @@
+﻿@using QLBanLinhKienDienTuMVC.Models;
+@model List<KhachHang>
+@{
+    ViewBag.Title = "ThongTinNguoiDung";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+@{
+    if (Session["taikhoan"] != null)
+    {
+        var tk = Session["taikhoan"] as KhachHang;
+        <div class="container">
+            <h2 style="color:red;font-weight:bold;text-align:center">Thông Tin</h2>
+            <div class="card bordered-dark">
+                <table class="table">
+                    <tr>
+                        <td style="text-align:right">Họ Tên:</td>
+                        <td style="text-align:center">@tk.HoTen</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align:right">Điện Thoại:</td>
+                        <td style="text-align:center">@tk.DienThoai</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align:right">Email:</td>
+                        <td style="text-align:center">@tk.Email</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align:right">Địa Chỉ:</td>
+                        <td style="text-align:center">@tk.DiaChi</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><center><a href="@Url.Action("CapNhatThongtin", "NguoiDung")" class="sub_btn">Cập Nhật</a></center></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    }
+
+}
+

@@ -1,0 +1,26 @@
+﻿@using QLBanLinhKienDienTuMVC.Models;
+@model List<KhachHang>
+
+@{ var tk = Session["taikhoan"] as KhachHang;
+    if (Session["taikhoan"] != null && tk.UserName == "Admin")
+    {
+        <li class="nav-item  ">
+            <a class="nav-link" href="@Url.Action("DanhSachLoai","Ad_Loai")">Loại</a>
+        </li>
+        <li class="nav-item  ">
+            <a class="nav-link" href="@Url.Action("DanhSachSanPham","Ad_SanPham")">Sản Phẩm</a>
+        </li>
+        <li class="nav-item  ">
+            <a class="nav-link" href="@Url.Action("DanhSachDonHang","Ad_DonHang")">Hóa Đơn</a>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link" href="@Url.Action("SanPhamPartail","SanPham")">Sản Phẩm</a>
+        </li>
+        <li class="nav-item  ">
+            <a class="nav-link" href="@Url.Action("LienHe","LienHe")">Liên Hệ</a>
+        </li>
+    }
+}

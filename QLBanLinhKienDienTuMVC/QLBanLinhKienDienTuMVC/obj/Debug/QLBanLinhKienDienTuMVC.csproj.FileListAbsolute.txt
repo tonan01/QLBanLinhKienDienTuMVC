@@ -1,0 +1,168 @@
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\QLBanLinhKienDienTuMVC.dll.config
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\QLBanLinhKienDienTuMVC.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\QLBanLinhKienDienTuMVC.pdb
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\csc.exe
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\csc.exe.config
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\csc.rsp
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\csi.exe
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\csi.exe.config
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\csi.rsp
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.AppContext.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Console.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.IO.Compression.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.IO.Pipes.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.AccessControl.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.Claims.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.ValueTuple.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Xml.XPath.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\vbc.exe
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\vbc.exe.config
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\vbc.rsp
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\VBCSCompiler.exe
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\Antlr3.Runtime.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\Newtonsoft.Json.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Net.Http.Formatting.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.Helpers.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.Http.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.Http.WebHost.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.Mvc.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.Optimization.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.Razor.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.WebPages.Deployment.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.WebPages.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.WebPages.Razor.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\WebGrease.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\Newtonsoft.Json.xml
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Net.Http.Formatting.xml
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.Helpers.xml
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.Http.xml
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.Http.WebHost.xml
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.Mvc.xml
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.Optimization.xml
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.Razor.xml
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.WebPages.xml
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.WebPages.Deployment.xml
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\System.Web.WebPages.Razor.xml
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\Antlr3.Runtime.pdb
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.csprojAssemblyReference.cache
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.csproj.CoreCompileInputs.cache
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.csproj.CopyComplete
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.dll
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.pdb
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.Properties.Resources.resources
+D:\Hoc tap\CongNgheWeb\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.csproj.GenerateResource.cache
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\QLBanLinhKienDienTuMVC.dll.config
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\QLBanLinhKienDienTuMVC.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\QLBanLinhKienDienTuMVC.pdb
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\csc.exe
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\csc.exe.config
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\csc.rsp
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\csi.exe
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\csi.exe.config
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\csi.rsp
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.AppContext.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Console.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.IO.Compression.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.IO.Pipes.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.AccessControl.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.Claims.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.ValueTuple.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Xml.XPath.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\vbc.exe
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\vbc.exe.config
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\vbc.rsp
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\VBCSCompiler.exe
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\Antlr3.Runtime.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\Newtonsoft.Json.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Net.Http.Formatting.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.Helpers.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.Http.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.Http.WebHost.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.Mvc.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.Optimization.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.Razor.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.WebPages.Deployment.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.WebPages.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.WebPages.Razor.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\WebGrease.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\Newtonsoft.Json.xml
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Net.Http.Formatting.xml
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.Helpers.xml
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.Http.xml
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.Http.WebHost.xml
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.Mvc.xml
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.Optimization.xml
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.Razor.xml
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.WebPages.xml
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.WebPages.Deployment.xml
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\System.Web.WebPages.Razor.xml
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\Antlr3.Runtime.pdb
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.csprojAssemblyReference.cache
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.Properties.Resources.resources
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.csproj.GenerateResource.cache
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.csproj.CoreCompileInputs.cache
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.csproj.CopyComplete
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.dll
+D:\Chinhthucdownload\QLBanLinhKienDienTuMVC-main\QLBanLinhKienDienTuMVC\obj\Debug\QLBanLinhKienDienTuMVC.pdb

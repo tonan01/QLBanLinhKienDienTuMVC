@@ -1,0 +1,29 @@
+﻿@using QLBanLinhKienDienTuMVC.Models;
+@{
+    /**/
+
+    ViewBag.Title = "TrangChu";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+<h2>SHOP LINH KIỆN ĐIỆN TỬ</h2>
+@{
+    var tk = Session["TaiKhoan"] as KhachHang;
+}
+@if (tk != null)//có tài khoản login vàp
+{
+    <h3 style="color:red;font-size:23pt;font-weight:bold">Chào mừng @tk.HoTen</h3>
+    <a href="@Url.Action("DangXuat","NguoiDung")">
+        <input value="Đăng Xuất" type="submit" class="btn btn-primary btn-outline-secondary" />
+    </a>
+}
+else
+{
+    <h3 style="color:red;font-size:23pt;font-weight:bold">Bạn Chưa Đăng Nhập</h3>
+    <a href="@Url.Action("DangNhap","NguoiDung")">
+        <input value="Đăng Nhập" type="submit" class="btn btn-primary btn-outline-secondary" />
+    </a>
+
+   
+}
+
+
